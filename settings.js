@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "",
 // add your Session Id 
 
 PREFIX: process.env.PREFIX || ".",
-// add your prifix for bot
+MALVIN-XD~s1gTABJb#AbIPLBXuQ2da-93GkJcm_5DAHQKYX7DDGU4yVyfmr_8// add your prifix for bot
 
 BOT_NAME: process.env.BOT_NAME || "✦ᴍᴀʟᴠɪɴ xᴅ",
 // add bot name here for menu
@@ -72,12 +72,12 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
 
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
-// make true or false automatic text reply 
+make true or false automatic text reply 
 
 HEART_REACT: process.env.HEART_REACT || "false",
 // make this true or false for heart reactions only 
 
-OWNER_REACT: process.env.OWNER_REACT || "true",
+OWNER_REACT: process.env.OWNER_REACT || "false",
 // make it true or fasle for only react on owner msg only 
 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
